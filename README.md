@@ -1,3 +1,3 @@
-# Pear Launcher official APK files
+# Pear Launcher APK files
   
-This repository will have APK files for the Pear launcher.
+This repository will have official APK files for Pear Launcher.
